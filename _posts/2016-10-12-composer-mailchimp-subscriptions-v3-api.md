@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "How to subscribe users to MailChimp lists in a Drupal custom module"
-date: 2016-01-22
+title: "UPDTAE THIS WHOLE BLOG POST: How to subscribe users to MailChimp lists in a Drupal custom module"
+date: 2016-10-12
 author: Dan Murphy
 tags: drupal drupal-planet composer module-development mailchimp
 summary: Using Composer Manager and the MailChimp PHP library we can simply and easily subscribe users to mailing lists without using the MailChimp contributed module.
@@ -9,11 +9,11 @@ featured_image: "/blog/composer.jpg"
 featured_image_alt: "composer"
 drupal_planet_summary: |
   A demonstration on how to use Composer Manager and the MailChimp PHP library to simply and easily subscribe users to mailing lists without using the MailChimp contributed module.
-disclaimer: |
-  This is some disclaimer
 ---
 
 ## Overview
+In the spirit of getting of the island, ThinkShout released a PHP package.
+
 In my [last blog post](/2015/10/15/composing-with-composer-manager.html), I wrote about the virtues of [Composer Manager](https://www.drupal.org/project/composer_manager) and how it allows modules to depend on PHP libraries managed via Composer. Basically, Composer Manager allows us to easily use PHP libraries that exist outside of the Drupal ecosystem within our own projects.
 
 In this post, I'll show you how we:
